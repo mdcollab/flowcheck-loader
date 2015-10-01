@@ -23,8 +23,5 @@
   "homepage": "https://github.com/gaearon/flowcheck-loader",
   "dependencies": {
     "loader-utils": "^0.2.2"
-  },
-  "peerDependencies": {
-    "flowcheck": "mdcollab/flowcheck#14234d5f075f3296b271a56fb281367e7e9bf521"
   }
 }
