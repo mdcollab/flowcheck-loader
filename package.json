@@ -1,6 +1,6 @@
 {
   "name": "flowcheck-loader",
-  "version": "1.0.0",
+  "version": "mdcollab/flowcheck#d512b9fdaee684a8db12aeb79c2339f661684d16",
   "description": "A Webpack loader for Flowcheck",
   "main": "index.js",
   "repository": {
