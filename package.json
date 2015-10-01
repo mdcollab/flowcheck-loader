@@ -25,6 +25,6 @@
     "loader-utils": "^0.2.2"
   },
   "peerDependencies": {
-    "flowcheck": "^0.2.0"
+    "flowcheck": "mdcollab/flowcheck#89075e8c05b94b7920b99ea3faf8965d7f589a64"
   }
 }
